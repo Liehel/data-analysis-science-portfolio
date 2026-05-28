@@ -1,4 +1,4 @@
-# Data-Analysis-Science-Portfolio
+# Data Analysis Science Portfolio
 
 Collection of data analysis and data science projects developed in Python
 and Google Colab, covering exploratory analysis, statistical modeling,
